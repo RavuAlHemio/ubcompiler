@@ -1,0 +1,6 @@
+*.o
+parser.output
+ubcompiler
+scanner.c
+parser.c
+parser.h
